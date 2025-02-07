@@ -1,0 +1,14 @@
+# Python environemnt
+.venv
+
+#Python cachhe
+__pycache__
+
+# Logs
+logs
+
+# generated files
+generated_code
+
+# log files
+*.log
